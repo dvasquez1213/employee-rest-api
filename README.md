@@ -1,6 +1,6 @@
 # Employee REST API
 
-A simple REST API for managing a list of employees, built with Java and the Spring Boot framework as part of a guided project.
+A simple REST API for managing a list of employees, built with Java and the Spring Boot framework.
 
 ## Technologies Used
 
